@@ -1,0 +1,40 @@
+[33mcommit 513344252757933c462a82b75584c11ecad787bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kabutohui <kabuto_hui@163.com>
+Date:   Fri Aug 31 15:53:41 2018 +0800
+
+    智慧机箱上位机_0831
+    
+    1. 修改了初始阈值
+    2. 远程复位兼容新老版本下位机
+
+[33mcommit a2fc3069eaddfcfcc7a1bdaf21a5a34139335409[m
+Author: kabutohui <kabuto_hui@163.com>
+Date:   Thu Aug 30 17:33:22 2018 +0800
+
+    智慧机箱上位机_0830
+    
+    实现程序打包操作，以便于安装部署
+
+[33mcommit 75ce097668335f3250ccaf9cd531238aad784613[m
+Author: kabutohui <kabuto_hui@163.com>
+Date:   Wed Aug 29 20:25:36 2018 +0800
+
+    智慧机箱上位机_0829
+    
+    1.兼容了老版本打卡信息存入
+    2.解决因多次点击引起的程序崩溃
+    NOTE：此版本可以兼容老版下位机
+
+[33mcommit e88b127f38b837cc9c1e66a543b5d9bf0bee7d68[m
+Author: kabutohui <kabuto_hui@163.com>
+Date:   Wed Aug 29 15:43:46 2018 +0800
+
+    智能机箱上位机_0816
+    
+    2018.08.16最新版本备份
+
+[33mcommit 02a7aa670e504834b120b611dc053c65e10dbb77[m
+Author: kabutohui <kabuto_hui@163.com>
+Date:   Wed Aug 29 15:41:58 2018 +0800
+
+    :neckbeard: Added .gitattributes & .gitignore files
